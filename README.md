@@ -67,4 +67,4 @@ lanes are found
 2. Using supervised learning we can train the pipeline to know what a
 turn looks like
 3. We can transform and warp the image to enhance the knowledge 
-of a curvature
+of a curvature.
